@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'customer',
     'account',
     'transfer',
+    'scheduled_payment'
 ]
 
 MIDDLEWARE = [
